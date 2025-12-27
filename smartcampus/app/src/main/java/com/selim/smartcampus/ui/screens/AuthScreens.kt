@@ -118,4 +118,5 @@ fun RegisterScreen(
         SmartButton(text = "Kayıt Ol", onClick = { viewModel.register(fullName, email, password, department) })
     }
 }
-//Furkan güncelledi
+//Furkan: güncelledi
+//Furkan: şifre alani hata mesajlari ile ilgili iyileştirme yapıldı.

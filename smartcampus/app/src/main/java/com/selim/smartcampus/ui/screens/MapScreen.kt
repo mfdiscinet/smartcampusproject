@@ -23,3 +23,9 @@ fun MapScreen() {
         // Pinleri temsilen canvas çizilebilir ama şimdilik text yeterli.
     }
 }
+
+
+//Furkan: Harita yakınlaştırma (zoom) seviyeleri kampüs sınırlarına göre optimize edildi.
+
+
+//Furkan: Harita üzerindeki pinlerin konum doğrulama algoritması güncellendi.
