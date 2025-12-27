@@ -88,3 +88,4 @@ fun CreateReportScreen(
         )
     }
 }
+// Yasin: Rapor ekranı validasyonları eklendi
