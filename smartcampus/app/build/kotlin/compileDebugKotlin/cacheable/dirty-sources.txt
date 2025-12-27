@@ -1,0 +1,10 @@
+C:\Users\Furkan\OneDrive\Desktop\smartcampus (1)\smartcampus\app\src\main\java\com\selim\smartcampus\ui\components\Common.kt
+C:\Users\Furkan\OneDrive\Desktop\smartcampus (1)\smartcampus\app\src\main\java\com\selim\smartcampus\data\Database.kt
+C:\Users\Furkan\OneDrive\Desktop\smartcampus (1)\smartcampus\app\src\main\java\com\selim\smartcampus\ui\screens\AuthScreens.kt
+C:\Users\Furkan\OneDrive\Desktop\smartcampus (1)\smartcampus\app\src\main\java\com\selim\smartcampus\ui\screens\CreateReportScreen.kt
+C:\Users\Furkan\OneDrive\Desktop\smartcampus (1)\smartcampus\app\src\main\java\com\selim\smartcampus\ui\screens\HomeScreen.kt
+C:\Users\Furkan\OneDrive\Desktop\smartcampus (1)\smartcampus\app\src\main\java\com\selim\smartcampus\data\Entities.kt
+C:\Users\Furkan\OneDrive\Desktop\smartcampus (1)\smartcampus\app\src\main\java\com\selim\smartcampus\data\Daos.kt
+C:\Users\Furkan\OneDrive\Desktop\smartcampus (1)\smartcampus\app\src\main\java\com\selim\smartcampus\ui\screens\MapScreen.kt
+C:\Users\Furkan\OneDrive\Desktop\smartcampus (1)\smartcampus\app\src\main\java\com\selim\smartcampus\viewmodel\ViewModels.kt
+C:\Users\Furkan\OneDrive\Desktop\smartcampus (1)\smartcampus\app\src\main\java\com\selim\smartcampus\MainActivity.kt
