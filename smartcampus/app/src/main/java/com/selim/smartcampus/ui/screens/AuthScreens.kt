@@ -118,3 +118,4 @@ fun RegisterScreen(
         SmartButton(text = "Kayıt Ol", onClick = { viewModel.register(fullName, email, password, department) })
     }
 }
+//Furkan güncelledi
