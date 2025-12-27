@@ -22,4 +22,4 @@ fun MapScreen() {
         Text("Harita Modülü Yükleniyor...\n(Burada Google Maps olacak)")
         // Pinleri temsilen canvas çizilebilir ama şimdilik text yeterli.
     }
-}
+}Furkan: Harita yakınlaştırma (zoom) seviyeleri kampüs sınırlarına göre optimize edildi.
