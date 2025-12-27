@@ -89,3 +89,4 @@ fun CreateReportScreen(
     }
 }
 // Yasin: Rapor ekranı validasyonları eklendi
+//Yasin:Profile ve rapor ekranları için küçük düzenlemeler yapıldı.
