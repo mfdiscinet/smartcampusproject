@@ -193,3 +193,4 @@ fun DetailScreen(
         }
     }
 }
+//Selim: Takip et / takibi bırak (USER) ve durum değişikliği butonları (ADMIN) eklendi.
