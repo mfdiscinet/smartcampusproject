@@ -125,3 +125,4 @@ private fun AdminAlertDialog(message: String?, onDismiss: () -> Unit) {
         text = { Text("Mesaj gönderildi (simülasyon): $message") }
     )
 }
+// Selim: Acil Durum Gönderildi onay dialog'u eklendi.
