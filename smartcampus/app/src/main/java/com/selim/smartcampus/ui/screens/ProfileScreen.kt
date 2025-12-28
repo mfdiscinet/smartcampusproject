@@ -92,4 +92,4 @@ fun ProfileScreen(
         }
     }
 }
-//Furkan:şifre sıfırlama ve çıkış yap butonlari eklendi.
+//Furkan:şifre sıfırlama ve çıkış yap butonlari eklendi
